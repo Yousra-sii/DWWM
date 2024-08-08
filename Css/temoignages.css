@@ -1,0 +1,44 @@
+.navbar {
+    background-color: green; 
+}
+
+#logo {
+    max-height: 40px; 
+    text-align:left;
+    
+ 
+}
+
+#nav-links .nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 0 5px; 
+}
+
+#nav-links .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+}
+body {
+   
+    background-color: darkgray;
+}
+.card {
+    width: 18rem;
+    box-shadow: 10px 10px 10px 10px rgb(116, 112, 112);
+}
+
+.card-title {
+    color: black;
+    font-size: 1em;
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+.card .btn {
+
+    font-family: "Rock_and_Roll";
+    font-weight: bold;
+    font-size: 1.4em;
+}

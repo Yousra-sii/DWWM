@@ -1,0 +1,54 @@
+.navbar {
+    background-color: green; 
+}
+
+#logo {
+    max-height: 40px; 
+    text-align:left;
+    
+ 
+}
+
+#nav-links .nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 0 5px; 
+}
+
+#nav-links .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+}
+body {
+    padding-top: 70px; 
+    background-color: darkgray;
+}
+h1{
+    margin: 20px 0;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.logos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 60px;
+    width: 65%;
+    margin: auto;
+
+}
+.logos img{
+ 
+    width:92px;
+    height:80px;
+    margin: auto;
+    margin-bottom: 3em;
+    max-width: 92px;
+    max-height: 80px; 
+    border: rgba(255, 255, 255, 0);
+   
+   
+}
